@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingAgency(Mareev)", "DatingAgency(Mareev)\DatingAgency(Mareev).csproj", "{916B9256-9EAB-45E0-A7B6-30E8A2F59E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{916B9256-9EAB-45E0-A7B6-30E8A2F59E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916B9256-9EAB-45E0-A7B6-30E8A2F59E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916B9256-9EAB-45E0-A7B6-30E8A2F59E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916B9256-9EAB-45E0-A7B6-30E8A2F59E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89B2FEB-431F-4E75-8AC6-6D698B9E2A9E}
+	EndGlobalSection
+EndGlobal
